@@ -1,0 +1,27 @@
+.huh{
+    color: white;
+    background-color: green;
+}
+.tut{
+    color: white;
+    background-color: red
+}
+.tet{
+    color: white;
+    background-color: orange;
+}
+.tat{
+    color: black;
+    background-color: yellow;
+}
+.heh{
+    color: white;
+    background-color: blue;
+}
+.hah{
+    color: black;
+    background-color: rgb(000,255,255);
+}
+body{
+    background-image: url("img.png");
+}
